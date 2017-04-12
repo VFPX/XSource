@@ -20,7 +20,7 @@ For the purposes of maintaining XSource, VFPX splits it into 21 main projects. S
 
 * [Converter](https://github.com/VFPX/Converter)
 
-* Data Explorer: not included in VFPX because [Sedna's version](http://github.com/VFPX/DataExplorer) is newer, and the [DataExplorer 3](http://github.com/VFPX/DataExplorer3) is newest
+* Data Explorer: not included in VFPX because [DataExplorer 3](http://github.com/VFPX/DataExplorer) supersedes it
 
 * [EnvironmentManager](https://github.com/VFPX/EnvironmentManager)
 
