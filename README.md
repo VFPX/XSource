@@ -16,9 +16,9 @@ For the purposes of maintaining XSource, VFPX splits it into 21 main projects. S
 
 * [CodeReferences](https://github.com/VFPX/CodeReferences)
 
-* [CoverageProfiler](https://github.com/VFPX/CoverageProfiler)
-
 * [Converter](https://github.com/VFPX/Converter)
+
+* [CoverageProfiler](https://github.com/VFPX/CoverageProfiler)
 
 * Data Explorer: not included in VFPX because [DataExplorer 3](http://github.com/VFPX/DataExplorer) supersedes it
 
